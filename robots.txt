@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
+
 Sitemap: https://packagingstrap.com/sitemap.xml
